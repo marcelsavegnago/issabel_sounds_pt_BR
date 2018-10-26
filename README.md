@@ -1,6 +1,7 @@
 # Sounds pt_BR Issabel.
 ```text
         By Marcel Savegnago <marcel.savegnago@gmail.com>
+        And https://www.asterisksounds.org/pt-br
 ```
 
 ## Instalação
