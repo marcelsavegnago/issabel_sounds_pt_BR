@@ -1,4 +1,4 @@
-# Arquivos de audio pt_BR para servidores Issabel e outros baseados em Asterisk.
+# Sounds pt_BR Issabel.
 ```text
         By Marcel Savegnago <marcel.savegnago@gmail.com>
 ```
